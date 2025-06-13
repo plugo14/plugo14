@@ -19,15 +19,15 @@ I am a passionate Lead Software Engineer with extensive experience in Object-Ori
 
 - Engineering and innovative problem-solving
 - Programming and exploring new technologies
-- Sports
-- Theater
 - Outdoor photography: capturing the beauty of nature
+- Sports
+- Arts
 
 ---
 
 ### 📫 Let's Connect
 
-Feel free to reach out for collaboration, interesting project discussions, or to chat about engineering, tech, or outdoor adventures!
+Feel free to reach out for collaboration, interesting project discussions, or to chat about engineering, tech, or photography!
 
 ---
 
