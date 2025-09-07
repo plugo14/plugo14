@@ -8,7 +8,7 @@ I am a passionate Lead Software Engineer with extensive experience in Object-Ori
 
 ### 🛠️ Technical Skills
 
-- **Languages**: C, C++, C#, Python
+- **Languages**: C, C++, C#, Python, Rust
 - **Embedded Systems**: Specializing in ARM architecture and low-level programming
 - **Software Development Lifecycle**: Experienced in all phases, from requirements to deployment
 - **Methodologies**: Strong working knowledge of Agile principles and practices
