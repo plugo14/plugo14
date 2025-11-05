@@ -19,7 +19,7 @@ I am a passionate Lead Software Engineer with extensive experience in Object-Ori
 
 - Engineering and innovative problem-solving
 - Programming and exploring new technologies
-- Outdoor photography: capturing the beauty of nature
+- Landscape photography: capturing the beauty of nature
 - Sports
 - Arts
 
