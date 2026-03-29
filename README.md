@@ -2,7 +2,7 @@
 
 ## 🚀 Lead Software Engineer
 
-I am a passionate Lead Software Engineer with extensive experience in Object-Oriented Design and Development. My expertise covers a wide range of programming languages and technical domains, especially in embedded systems and ARM architecture.
+I'm a passionate Lead Software Engineer with extensive experience in Object-Oriented Design and Development. My expertise covers a wide range of programming languages and technical domains, especially in embedded systems and ARM architecture.
 
 ---
 
